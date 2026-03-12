@@ -37,8 +37,8 @@ cd biodash-lab-dashboard
 
  2. Create a virtual environment
 
-python -m venv venv  
-source venv/bin/activate
+python -m venv biod 
+source biod/bin/activate
 
  3. Install dependencies
 
