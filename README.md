@@ -1,8 +1,8 @@
-# biodash-lab-dashboard
+# LabTrack-lab-dashboard
 
-# BioDash – Laboratory Experiment Dashboard
+# LabTrack– Laboratory Experiment Dashboard
 
-BioDash is a web-based dashboard for storing, managing, and visualizing laboratory experiment data.
+LabTrack is a web-based dashboard for storing, managing, and visualizing laboratory experiment data.
 
 ## Features
 
@@ -34,8 +34,8 @@ BioDash is a web-based dashboard for storing, managing, and visualizing laborato
 
  1. Clone the repository
 
-git clone https://github.com/chandana-0504/biodash-lab-dashboard.git  
-cd biodash-lab-dashboard
+git clone https://github.com/chandana-0504/LabTrack-lab-dashboard.git  
+cd LabTrcak-lab-dashboard
 
  2. Create a virtual environment
 
